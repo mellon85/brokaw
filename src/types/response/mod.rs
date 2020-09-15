@@ -8,3 +8,4 @@ pub use article::*;
 pub use group::*;
 
 pub use capabilities::Capabilities;
+pub use xover::*;
